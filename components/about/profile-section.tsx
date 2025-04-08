@@ -16,7 +16,7 @@ export default function ProfileSection() {
       <div className="flex flex-col items-center">
         <div className="relative w-40 h-40 mb-6 rounded-full overflow-hidden border-4 border-white dark:border-neutral-700 shadow-md">
           <Image
-            src="/eyyoBro.jpg"
+            src="/eyyobro.jpg"
             alt="Profile Picture"
             fill
             className="object-cover"
